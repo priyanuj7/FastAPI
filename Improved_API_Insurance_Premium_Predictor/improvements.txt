@@ -1,0 +1,13 @@
+1. Create a separate folder for API
+2. Field validator for city feature
+3. Add routes
+  a. Home
+  b. Health Check
+4. Add model version
+5. Separation of logic
+  a. Pydantic Model
+  b. City tier
+  c. ML logic
+6. Try Catch
+7. Add confidence score
+8. Response Model
